@@ -1,0 +1,15 @@
+@import 'utils';
+body {
+    background:$oc-gray-1;
+    margin:0px;
+}
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+button {
+    background: transparent;
+    border:0;
+    outline: none;
+}
